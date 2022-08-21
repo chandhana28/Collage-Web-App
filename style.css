@@ -1,0 +1,47 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    font-weight:lighter;
+}
+
+h4{
+    color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border:1px solid cadetblue;
+}
+
+img{
+    width: 600px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+    margin-bottom: 100px;
+}
+
+img:hover {
+    border-radius: 140px;
+  }
+
+  .copy_right_footer{
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      text-align: center;
+      background-color: cadetblue;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
